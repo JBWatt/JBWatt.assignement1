@@ -1,2 +1,2 @@
-# JBWatt.gassignment1
+# JBWatt.assignment1
 Assignment Website
