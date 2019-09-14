@@ -1,2 +1,2 @@
 # JBWatt.assignment1
-Assignment Website
+Assignment 1 Website
